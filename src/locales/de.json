@@ -4,13 +4,13 @@
     },
     "welcome": {
         "title": {
-            "header": "welcomeeeeeee"
+            "header": "Willkommen"
         }
     },
     "email": "E-mail",
-    "password": "Password",
-    "name": "First Name",
-    "fname": "Last Name",
-    "accessCode": "Access Code",
-    "securityCode": "Security Code"
+    "password": "Passwort",
+    "name": "Vorname",
+    "fname": "Nachname",
+    "accessCode": "Zugangscode",
+    "securityCode": "Sicherheitscode"
 }
