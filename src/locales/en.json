@@ -1,10 +1,10 @@
 {
     "company": {
-        "name": "This is companies name"
+        "name": "This is the company's name"
     },
     "welcome": {
         "title": {
-            "header": "HALLLLLOOOOO"
+            "header": "Welcome"
         }
     },
     "email": "E-mail",
