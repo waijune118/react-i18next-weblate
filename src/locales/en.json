@@ -1,0 +1,16 @@
+{
+    "company": {
+        "name": "This is companies name"
+    },
+    "welcome": {
+        "title": {
+            "header": "HALLLLLOOOOO"
+        }
+    },
+    "email": "E-mail",
+    "password": "Password",
+    "name": "First Name",
+    "fname": "Last Name",
+    "accessCode": "Access Code",
+    "securityCode": "Security Code"
+}
